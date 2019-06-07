@@ -4,3 +4,9 @@
 
 layout: home
 ---
+* * *
+***
+***
+>## Anything is fun when you are best at it, Everything thing is super fun when are are still learning it.
+>####                                                    -Anonymous
+
