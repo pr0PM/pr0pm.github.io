@@ -16,9 +16,10 @@
 title: pr0PM
 email: pr0PM@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal website (wont call it a blog) for all kinds of necessary stuff and quiet a bit of show-off.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  My personal website (wont call it a blog) for all kinds of necessary stuff and quiet a bit of show-off.**Warning**
+  This website is in alpha phase!!
+baseurl: "/pr0PM/pr0pm.github.io" # the subpath of your site, e.g. /blog
+url: "https://github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: pr0PM
 linkedin_username: prateek88mishra
@@ -40,5 +41,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-exclude: _sites
