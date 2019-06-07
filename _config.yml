@@ -40,7 +40,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# test
-header_pages:
-  - about.md
-  - portfolio.md
+exclude: _sites
