@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 This is my first baby step towards learnig to make a static website. Till now its been 
-a great learnig experience.
+a great learning experience.
 
 <!-- {% highlight ruby %}  
 

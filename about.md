@@ -6,7 +6,7 @@ permalink: /about/
 
 #### I'm a Computer Science and Engineering undergrad from **INDIA** who is a 
 #### [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), [Data Science](https://en.wikipedia.org/wiki/Data_science), [System Administration](https://en.wikipedia.org/wiki/System_administrator) and [Basketball](https://en.wikipedia.org/wiki/Basketball) 
-#### enthusiast, continuously learrning by doing.
+#### enthusiast, continuously learning by doing.
 #### _(But making a website is fun too)_ 
 
 
