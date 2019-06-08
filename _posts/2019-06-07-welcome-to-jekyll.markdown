@@ -8,6 +8,8 @@ categories: jekyll update
 This is my first baby step towards learning to make a static website. Till now its been 
 a great learning experience.
 
+<img src="https://cdn.elearningindustry.com/wp-content/uploads/2018/05/how-animation-is-helpful-in-enhancing-enterprise-learning-e1526563117200.jpg">
+
 <!-- {% highlight ruby %}  
 
 #def print_hi(name)
