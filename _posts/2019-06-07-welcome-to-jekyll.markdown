@@ -5,7 +5,7 @@ date:   2019-06-07 09:10:49 +0530
 categories: jekyll update
 ---
 
-This is my first baby step towards learnig to make a static website. Till now its been 
+This is my first baby step towards learning to make a static website. Till now its been 
 a great learning experience.
 
 <!-- {% highlight ruby %}  
