@@ -1,0 +1,138 @@
+                                                                        
+
+
+<html>
+<head>
+<title>www.alexis.com</title>
+<body bgcolor=""><br/><br/>
+<body><h4>Hello friends welcome to my website. Here you can learn about html in the simplest ways.</h4>
+<p><b><font face="Z003" size="7" color="black"><u> HTML</u></p></b>
+
+<p><font face="Noto Sans CJK SC Light" size="5">The World Wide Web is an exciting new medium bringing informations, images, advertising and what not, to every desktop. Do you know that everything that you see on a web is documents written in a special language called HTML. </p><img src="ht.png" height="600" width="800">
+
+<p><br/><font size="5" color="green"> <B>What is HTML?</B></p>
+<p><font SIZE="4" COLOR="BLACK">HTML is a language for describing the web pages.
+<ul>1) HTML stands for <b>H</b>yper <b>T</b>ext <b>M</b>arkup <b>L</b>anguage</ul>
+<ul>2) HTML is not a programming language, it is a <b>markup language</b></ul>
+<ul>3) A markup language is a set of <b>markup tags</b></ul>
+<ul>4) HTML uses the markup tags to describe the web pages</ul></p><br/>
+<p><b><font color="green" size="5"> What is a Text editor?</p></b><font color="black" size="4">
+<p>Text Editor is used to create a web page by using the HTML documents. There are different types of Text editor in different types of operating systems. Like Notepad is used in the windows, while Kate is used in Linux.</p><img src="html.png" height="400" width="400">           
+<p><font size="5" color="green"><b>HTML Tags</b></p>
+<p><font size="4" color="black">The HTML markup tags are usually called as HTML tags.
+<ol> 1) HTML tags are like the keywords surrounded by the angle brackets like< html > </ol>
+<ol> 2) HTML tags normally come out in pairs like < b > and < /b ></ol>
+<ol> 3) The first tag in the pair is the <b>start tag</b>, the second tag is the <b>end tag</b></ol>
+<ol> 4) Start and end tags are also called <b>opening tag</b> and <b>closing tag</b></ol></p>
+<p><br/><font color="green" size="5"><b>HTML Documents = Web Pages</p></b>
+<p><font color="black" size="4"><ol>1)HTML Document describe the <b>web pages</b></ol>
+<ol>2)HTML documents <b>contain HTML tags</b> and plain text</ol>
+<ol>3)HTML documents are also called <b>web pages</b></ol></p>
+<p>The purpose of a web browser (like Internet Explorer or Firefox) is to read the HTML documents and display them as web pages. The browser does not display the HTML tags, but use the HTML tags to interpret the content of the page:
+<ul> <font face="Noto Sans Mono Thin">< html > </ul>
+                                    <ul>  < body ></ul>
+                                    <ul> < h1 >My first heading< /h1 > </ul>
+                                    <ul> < p >My first paragraph.< /p > </ul>
+                                    <ul> < /body > </ul>
+                                    <ul> < /html > </ul></p><font face="Akaash">
+<br/><p><b><font color="green" size="5">Example Explained</b></p><font color="black" size="4">
+<p><ul>The text between < html >and < /html > describes the web page.</ul>
+<ul>The text between< body >and < /body >is the visible page content</ul>
+<ul> The text between < h1 >and < /h1 > is displayed as a heading </ul>
+<ul>The text between < p >and < /p > is displayed as a paragraph</ul>
+<b><u>HTML documents are defined by the HTML elements.</u></b></p>
+<br/><p><b><font color="green" size="5"> HTML Element Syntax</p></b>
+<font color="black" size="4">
+<p><ul>1)An HTML element starts with a <b>start tag/ opening tag</b></ul>
+<ul>2)An HTML element ends with an <b>end tag/ closing tag</b></ul>
+<ul>3)The elemt content is everything between the start and end tag.</ul>
+<ul>4)Some HTML elements have <b>empty tag</b></ul>
+<ul>5) Empty elements are closed in the start tag</ul>
+<ul>6) MOst HTML elements have <b>attributes</b></ul>
+Most HTML elements can be nested. HTML documents consists of nested HTML elements.</p><br/>
+<p><b><font color="green" size="5">Different types of HTML Elements</b></p>
+<font color="black" size="4">
+<p>An HTML documents contain so many tags. The body consists of all these tags. There are many tags to change the background colour, change the font, specify size, color, underline the text etc. We can use the following syntaxes in this class and some more in the earlier classes.
+<ul>1)Syntax for <b>background colour</b></ul>
+HTML provides to make your document in a more presentable form by using the background color and also the color for text. The syntax to change the background color is < body bgcolor="color name" text="color name">. It doesn't need an ending tag 
+<ul><b>2)Line Break </b>tag</ul>
+It breaks the unnecessary workspace between the two paragraph. It is an empty tag which is written in the end of the line. The tag used for this is < br/ >
+<ul>3)Syntax to change the<b> Font</b></ul>
+This tag provides the facility to change the font, specify the size and color of the text. The syntax used to change the font is < font face="name of the font" color="name of the colour" size="any size">. It does not need an ending tag.
+<ul>4)To <b>bold</b> the text</ul>
+Sometimes it is necessary to highlight a word by bolding it. The tag used to bold the text is < b >. The ending tag is < /b >
+<ul>5)To <b>underline</b>the text</ul>
+Sometimes it is needed in a web page that a word should be underline. So, we can do this by using the tag for underline- < u >. The closing tag for this is < /u >.
+<ul>6)Syntax to insert <b>Image</b></ul>
+It is sometime needed that a web page should have an image related to the particular topic. So you can insert the image in the web page through a tag which is used to insert images. This tag is- < img src="name of the image source" height="any" width="any" border="any like, 10, 5,20 etc.">. The image source is the name of the source that you are using for the particular image in your computer. You can set the height and width of the image as you want. If you want to use the border then you can use, but it is not so important.</p><br/>
+
+
+<p><p><p><b><font color="magenta"><h2>Related Topics</h2><b></p></p>
+<a href="how to link web page"> Terms related to Internet</a><br/>
+<a href="index">Social Media</a><br/>
+<a href="rm">Ritvika</a>
+
+
+</body>
+</head>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
