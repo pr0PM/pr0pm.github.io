@@ -76,9 +76,9 @@ for i in range(1,digit):
     # To enter the ROLL NO
     # hardcoded for ease
     if i < 10:
-        rn.send_keys('18001313500'+str(i)) # For adjusting a zero at the end
+        rn.send_keys('ROLL.NO'+str(i)) # For adjusting a zero at the end
     else:
-        rn.send_keys('1800131350'+str(i))
+        rn.send_keys('ROLL.NO-a zero at last'+str(i)) 
     
     # Click the show result 
     #driver.find_element_by_xpath("//*[@id='cmdOK']").click()
