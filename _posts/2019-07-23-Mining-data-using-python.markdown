@@ -28,7 +28,7 @@ categories: jekyll update
 ### This piece of will be openly avilable in my github account but I will be kind
 ### enough to remove the website from the code for my personal privacy on a global
 ### platform AND to protect it from a DDOS attack that won't take a n00b like me 
-### to perform an hour (Including the time to find  
+### to perform in an hour (Including the time to find  
 ### the right tools) ¯\_(ツ)_/¯
 ### >>>>>>>>>>   --------------------------   <<<<<<<<<<
 ###        >>If you done it, it ain't bragging.<<
