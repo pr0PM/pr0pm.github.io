@@ -5,8 +5,7 @@
 layout: home
 ---
 * * *
-***
-***
 >## Anything is fun when you are best at it, Everything is super fun when you are still learning it.
 >####                                                    - Anonymous
+[Link to something Beyond](http://pr0pm.github.io/site/index.html)
 
