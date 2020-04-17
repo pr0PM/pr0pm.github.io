@@ -1,2 +1,3 @@
 # pr0PM.github.io
-my personal blog/portfolio
+my personal mess
+now including a picture gallery
